@@ -5,9 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 django = "*"
+psycopg2-binary = "*"
+djangorestframework = "*"
+pyjwt = "*"
 
 [requires]
 python_version = "3.7"

@@ -23,8 +23,12 @@ module.exports = {
     open: true,
     port: 4000,
     watchContentBase: true,
-    historyApiFallback: true
+    historyApiFallback: true,
+    proxy: {
+      '/api': 'http://localhost:8000'
+    }
   },
+
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new HtmlWebpackPlugin({
