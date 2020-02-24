@@ -34,7 +34,6 @@ class FlightCalculator extends React.Component {
     this.setState({ arrival: e.target.value })
   }
 
-  // First Attempt for Add Flight
   handleAddFlight() {
     console.log('state in add flight: ', this.state)
     const flightData = this.state
