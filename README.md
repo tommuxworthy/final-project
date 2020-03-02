@@ -2,8 +2,6 @@
 
 
 ![Screenshot 2020-03-02 at 14 51 13](https://user-images.githubusercontent.com/48793557/75688320-3491aa00-5c97-11ea-88a0-c2fffc9ec592.png)
-![Screenshot 2020-03-02 at 14 51 45](https://user-images.githubusercontent.com/48793557/75688330-365b6d80-5c97-11ea-8b7d-5940d7c73760.png)
-
 
 This was my final project of the General Assembly Software Engineering Immersive course (Week 12).
 ![Screenshot 2020-03-02 at 14 44 05](https://user-images.githubusercontent.com/48793557/75688319-33607d00-5c97-11ea-80fe-36a8a1332e1a.png)
@@ -24,7 +22,7 @@ I worked independently to produce an app that calculated the amount of carbon em
 ![Screenshot P4 Code 1](https://user-images.githubusercontent.com/48793557/75688332-36f40400-5c97-11ea-8b45-617445775c35.png)
 **Getting Started**
 - In GitHub, use the clone button to download the application source code. 
-
+![Screenshot 2020-03-02 at 14 51 45](https://user-images.githubusercontent.com/48793557/75688330-365b6d80-5c97-11ea-8b7d-5940d7c73760.png)
 **Application Architecture**
 - Begin by registering an account.
 - Login using the account details you provided.
