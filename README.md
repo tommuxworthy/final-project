@@ -21,7 +21,9 @@ I worked independently to produce an app that calculated the amount of carbon em
 - The application is deployed on GitHub Pages and it can be found here:
 ![Screenshot P4 Code 1](https://user-images.githubusercontent.com/48793557/75688332-36f40400-5c97-11ea-8b45-617445775c35.png)
 **Getting Started**
-- In GitHub, use the clone button to download the application source code. 
+- In GitHub, use the clone button to download the application source code. I used pipenv to create a virtual environment for python, if you require a virtual environment I recommend pipenv via $ brew install pipenv.
+
+Make sure to install all package dependencies from package-lock files via $ npm install and $ pipenv install before starting.
 ![Screenshot 2020-03-02 at 14 51 45](https://user-images.githubusercontent.com/48793557/75688330-365b6d80-5c97-11ea-8b7d-5940d7c73760.png)
 **Application Architecture**
 - Begin by registering an account.
